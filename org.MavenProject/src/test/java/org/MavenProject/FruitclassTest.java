@@ -16,7 +16,6 @@ public void mangoTest() {
 	@Test
 	public void grapesTest() {
 		System.out.println("Grapes TeatNG getExecuted !");
-		System.out.println("Grapes TeatNG getExecuted GA1!");
 	}
 	
 	@Test
