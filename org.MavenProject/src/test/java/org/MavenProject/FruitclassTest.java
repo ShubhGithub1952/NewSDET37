@@ -9,11 +9,6 @@ public void mangoTest() {
 }
 	
 	@Test
-	public void guanaTest() {
-		System.out.println("Guana TestNG getExecut !");
-	}
-	
-	@Test
 	public void grapesTest() {
 		System.out.println("Grapes TeatNG getExecuted !");
 	}
