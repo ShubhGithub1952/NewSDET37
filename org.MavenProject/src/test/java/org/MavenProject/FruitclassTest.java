@@ -23,7 +23,4 @@ public void mangoTest() {
 		System.out.println("Banana TestNg getExecuted !");
 	}
 	
-	public void guanaTest() {
-		System.out.println("Guana Test gest Executed !");
-	}
 }
